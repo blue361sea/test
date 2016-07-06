@@ -1,3 +1,3 @@
 # test
-just for test
-for windows
+just for test - windows
+
